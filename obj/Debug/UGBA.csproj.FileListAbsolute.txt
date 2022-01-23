@@ -1,0 +1,16 @@
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\Irrelvant.dll
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\Irrelvant.pdb
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\UnityEditor.dll
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\UnityEngine.dll
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\UnityScript.dll
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\nunit.framework.dll
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\Mono.Security.dll
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\BPT\Documents\Unity\UGBA\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\BPT\Documents\Unity\UGBA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BPT\Documents\Unity\UGBA\obj\Debug\Irrelvant.dll
+C:\Users\BPT\Documents\Unity\UGBA\obj\Debug\Irrelvant.pdb

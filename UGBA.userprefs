@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\Utility Scripts\MeshCombineUtility.cs">
+    <Files>
+      <File FileName="Assets\TopLevelObjScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\MimicMaterial.cs" Line="1" Column="1" />
+      <File FileName="Assets\LiveButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\GBA\System\GbaManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\GBA\System\Arm7Processor.cs" Line="1" Column="1" />
+      <File FileName="Assets\GBA\System\Memory.cs" Line="1" Column="1" />
+      <File FileName="Assets\CartHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\GBA\Graphics\VideoManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\GBA\Graphics\IRenderer.cs" Line="1" Column="1" />
+      <File FileName="Assets\GBA\Graphics\Renderer.cs" Line="1" Column="1" />
+      <File FileName="Assets\GBA\Graphics\Renderers.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Utility Scripts\MeshCombineUtility.cs" Line="186" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\BPT\Documents\Unity\scraps\fresh.UGBA\UGBA\Assets\CartHolder.cs" line="23" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
